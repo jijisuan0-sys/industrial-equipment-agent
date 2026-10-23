@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-openai
+tavily-python
+pypdf
+chromadb
